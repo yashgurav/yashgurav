@@ -7,7 +7,7 @@
 
 - 🥅 2021 Goals: Master React and contribute to Open Source projects.
 
-- ⚡ Fun fact: I love to play football and travel new places.
+- ⚡ Fun fact: I love to play football and travel to new places.
 
 ### Languages and Tools:
 
