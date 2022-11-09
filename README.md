@@ -5,7 +5,7 @@
 
 - 💞️I’m looking to collaborate with other passionate developers.
 
-- 🥅 2021 Goals: Master React and contribute to Open Source projects.
+- 🥅 2023 Goals: Master React and contribute to Open Source projects.
 
 - ⚡ Fun fact: I love to play football and travel to new places.
 
