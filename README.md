@@ -1,7 +1,7 @@
 ### Hi, I am Yash👋
 
 ## I am a React developer
-- 📚 I’m currently learning and working on ReactJS, Javascript and Redux.
+- 📚 I’m currently learning MERN stack technolgies and working on ReactJS, Javascript and Redux.
 
 - 💞️I’m looking to collaborate with other passionate developers.
 
