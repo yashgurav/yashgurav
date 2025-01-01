@@ -5,7 +5,7 @@
 
 - 💞️I’m looking to collaborate with other passionate developers.
 
-- 🥅 2024 Goals: Master MERN stack and contribute to Open Source projects.
+- 🥅 2025 Goals: Master MERN stack and contribute to Open Source projects.
 
 - ⚡ Fun fact: I love to play football and travel to new places.
 
